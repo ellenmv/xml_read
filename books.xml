@@ -1,0 +1,18 @@
+<library>
+    <book>
+        <book_id>12345</book_id>
+        <author>John Smith</author>
+        <title>The Book Title</title>
+        <genre>Fiction</genre>
+        <price>19.99</price>
+        <publish_date>2023-06-15</publish_date>
+    </book>
+    <book>
+        <book_id>67890</book_id>
+        <author>Jane Doe</author>
+        <title>Another Book</title>
+        <genre>Mystery</genre>
+        <price>14.99</price>
+        <publish_date>2023-07-01</publish_date>
+    </book>
+</library>
